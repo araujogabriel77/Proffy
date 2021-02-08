@@ -1,27 +1,41 @@
-﻿![Proffy](assets/logo.svg)
+﻿<div  align="center">
+    <img src="assets/logo.svg" width="200px">
+    </br>
+    </br>
 
+[![](https://img.shields.io/badge/-Home-04d361)](#Home-page)
+[![](https://img.shields.io/badge/-Demonstração-6842c2)](#Cadastro-como-professor)
+[![](https://img.shields.io/badge/-Tecnologias-04d361)](#💻Tecnologias)
+[![](https://img.shields.io/badge/-Instalando-6842c2)](#🚀Instalando-o-projeto)
+
+[![](https://img.shields.io/badge/-Autor-32264d)](#🐱‍👤Autor)
+[![](https://img.shields.io/badge/-Licença-32264d)](#📃License)
+</div>
 
  
 *Desenvolvido durante a Next Level Week #2 **Live**: [Proffy](https://proffy-app-gabejabes.netlify.app/)*
 
 
->Tem como objetivo a criação de uma plataforma de ensino online.
->É possivel se cadastrar como professor ou como aluno
+## 📖Sobre
+Plataforma de ensino online a qual é possivel se cadastrar como professor ou como aluno
 
 ## Home page
 ![home](assets/proffy-web-landing.PNG)
 
->responsividade
 
-![home](assets/proffy-responsivo-landing.PNG)
 
-## Realização de cadastro como professor
+<div align="center">
+<h3>Responsividade</h3>
+<img src="assets/proffy-responsivo-landing.PNG" height="500px">
+</div>
+
+## Cadastro como professor
 ![cadastro](assets/cadastro.gif)
 
 ## Busca por matéria e disponibilidade de horário
 ![busca](assets/aula.gif)
 ------
-## 💻 Tecnologias
+## 💻Tecnologias
 
 - Typescript
 - Node.js
@@ -31,7 +45,7 @@
 - Express
 - axios
 
-## 🚀 Instalando o projeto
+## 🚀Instalando o projeto
 
 
  Faça um clone do repositório
@@ -71,7 +85,7 @@ Executando
     $ yarn start # ou npm start
 
 ----
-## 🐱‍👤 Autor
+## 🐱‍👤Autor
 [Gabriel Araujo](https://github.com/araujogabriel77)
 
 💼 **Linkedin**: [_Gabriel Ferreira_ ](https://www.linkedin.com/in/araujogabriel77/)
@@ -79,6 +93,6 @@ Executando
 📩 **email**: araujogabrielocn@gmail.com
 
 ----
-## 📃 License
+## 📃License
 
 This project is licensed under the MIT License - see the  [LICENSE.md](./LICENSE.md)  file for details
